@@ -1,0 +1,448 @@
+ - https://forums.flightsimulator.com/t/keyboard-commands/153128
+ - https://aviation.allanville.com/misc/fs20-keyboard-shortcuts
+ - ===============================================================
+ - 
+ - 
+ -     Decrease Autopilot Reference Altitude - CTRL + PGDOWN
+ -     Increase Autopilot Reference Altitude - CTRL + PGUP
+ - 
+ -     Decrease Autopilot Reference Airspeed - SHIFT + CTRL + DEL
+ -     Increase Autopilot Reference Airspeed - SHIFT + CTRL + INSERT
+ - 
+ -     Decrease Autopilot Reference VS - CTRL + END
+ -     Increase Autopilot Reference VS - CTRL + HOME
+ - 
+ - 
+ - 
+ - 	Autopilot Nav1 Hold - CTRL + N
+ - 	Toggle Active Pause - PAUSE
+ - 	Toggle Basic Control Panel - CTRL + C
+ - 	Toggle Flight Director - CTRL + F
+ - 	Toggle Landing Gear - G
+ - 	Toggle Landing Lights - CTRL + I
+ - 	Toggle Lights - l
+ - 	Toggle Nav Light - ALT + N
+ - 	Toggle Parking Brakes - CTRL + NUM DECIMAL
+ - 	Toggle Pause - ESC
+ - 	Toggle Taxi Lights - ALT + J
+ - 	Toggle Yaw Damper - CTRL + D
+ - 
+ - 
+ -     VS              = Autopilot VS Hold On/Off
+ -     HDG             = Autopilot Heading Hold On/Off
+ -     NAV             = Autopilot NAV1 Hold On/Off
+ -     APR             = Autopilot Approach Hold On/Off
+ -     AP              = Autopilot On/Off
+ -     FD              = Toggle Flight Director
+ -     LVL             = Autopilot Wing Leveler On/Off
+ -     FLC             = Autopilot FLC On/Off
+ -     BC              = Autopilot Back Course Hold On/Off
+ -     ALT             = Autopilot Altitude Hold On/Off
+ -     ½ bank mode     = Max Bank
+ -     Decrease/Increase Heading Bug
+ -     Decrease/Increase Autopilot Reference VS
+ -     Decrease/Increase Altitude Pressure
+ - 
+ - 
+ - V/S → TOGGLE AUTOPILOT VS HOLD
+ - 
+ - V/S + → INCREASE AUTOPILOT REFERENCE VS
+ - 
+ - V/S - → DECREASE AUTOPILOT REFERENCE VS
+ - 
+ - 
+ - ==============
+ - 
+ - 
+ -     Set AP to ON
+ -     Increase/Decrease target altitude as required, using the ALT knob.
+ -     Select the AP ALT mode to ON. Nothing happens at this point.
+ -     Select the AP VS mode to ON. Still nothing happening.
+ -     Increase/Decrease Vertical Speed using the “NOSE UP” / “NOSE DN” buttons on the MFD based on how fast you want to change altitude and also based on whether your target altitude is above or below current altitude.
+ -     Viola! The plane should start ascending/descending to target altitude. About 300 feet away from target altitude the AP should auto-switch back from “VS” to “ALT” mode and should maintain your selected altitude.
+ - 
+ - Again, this works for me in the Diamond DA62 - I have not tried this in any other aircraft.
+ - 
+ - 
+ - 
+ - 
+ - ===========================================================================================================================================================================================================================
+ - https://forums.flightsimulator.com/t/keyboard-commands/153128
+ - https://aviation.allanville.com/misc/fs20-keyboard-shortcuts
+ - 
+ - 
+ - Miscellaneous
+ - 
+ -     Toggle Fuel Pump – Alt + p
+ -     Toggle Marker Sound – Ctrl + 3
+ -     Minus – CTRL + Num Sub
+ -     Plus – CTRL + Num Plus
+ -     Toggle Pushback – Shift + p
+ -     Request Fuel – Shift + f
+ -     Display Navlog – n
+ -     Display Map – v
+ -     Sim Rate – r
+ -     Skip RTC – Backspace
+ -     New Ui Window Mode – Right Alt
+ -     Toggle Delegate Control to Copilot – CTRL + Alt + X
+ - 
+ - Instruments and Systems
+ - 
+ -     Toggle Anti Ice – h
+ -     Toggle Pitot heat – Shift + h
+ -     Toggle master Alternator – Alt + a
+ -     Toggle master Battery – Alt + b
+ -     Toggle master Battery and Alternator – Shift + m
+ -     Decrease cowl flap – Shift + CTRL + c
+ -     Select Engine – e
+ -     Auto start engine – CTRL + e
+ -     Engine Autostop – Shift + CTRL + e
+ -     Increase Cowl flap – Shift + CTRL + v
+ -     Magneto – m
+ -     Magnetos both – Shift + ALT + F
+ -     Magnetos left – Shift + Alt + s
+ -     Magnetos off – Shift + Alt + q
+ -     Magnetos right – Shift + Alt + d
+ -     Magnetos start – Shift + Alt + g
+ -     Toggle master ignition switch – ALt + i
+ - 
+ - Flight Instruments
+ - 
+ -     Select airspeed bug – Shift + Ctrl + r
+ -     Select altitude bug – Shift + Ctrl + z
+ -     Toggle Autorudder – Shift + Ctrl + u
+ -     Set Altimeter – b
+ -     Decrease heading bug – Ctrl + Del
+ -     Increase heading bug – Ctrl + Insert
+ -     Select heading bug – Shift + Ctrl + h
+ -     Set heading indicator – d
+ -     Toggle Alternate Static – Alt + s
+ - 
+ - Fuel
+ - 
+ -     Toggle fuel dump – Shift + Ctrl + d
+ -     Fuel Selector 1 all – Alt + w
+ -     Fuel Selector 1 off – Ctrl + Alt + w
+ -     Toggle all fuel valve – Alt + v
+ - 
+ - Camera – Slew Mode
+ - 
+ -     Slew translate up (slow) – F3
+ -     Slew translate up (fast) F4
+ -     Slew translate backward – Num 2
+ -     Slew translate forward – Num 8
+ -     Slew translate down (Fast) – F1
+ -     Slew translate down (slow) – a
+ -     Slew Y axis translation freeze – F2
+ -     Slew roll left – Num 7
+ -     Slew roll right – Num 9
+ -     Slew X Axis translation freeze – Num 5
+ -     Slew Yaw left – Num 1
+ -     Slew Yaw right – Num 3
+ -     Slew translate left – Num 4
+ -     Slew pitch down (fast) – F8
+ -     Slew Pitch freeze – F6
+ -     Slew pitch down – Num 0
+ -     Slew pitch up – 9
+ -     Slew pitch up (fast) F5
+ -     slew pitch up (slow) F7
+ -     Slew translate right – Num 6
+ -     Toggle slew mode – y
+ - 
+ - Camera Mode Switches
+ - 
+ -     Cockpit/External view mode – End
+ -     Toggle Drone – Insert
+ - 
+ - Cockpit Camera
+ - 
+ -     Load Custom Camera 0 – Alt + 0
+ -     Load Custom Camera 1 – Alt + 1
+ -     Load Custom Camera 2 – Alt + 2
+ -     Load Custom Camera 3 – Alt + 3
+ -     Load Custom Camera 4 – Alt + 4
+ -     Load Custom Camera 5 – Alt + 5
+ -     Load Custom Camera 6 – Alt + 6
+ -     Load Custom Camera 7 – Alt + 7
+ -     Load Custom Camera 8 – Alt + 8
+ -     Load Custom Camera 9- Alt + 9
+ -     Load next custom camera – k
+ -     Load previous custom camera – Shift + k
+ -     Save custom camera 0 – Ctrl + Alt + 0
+ -     Save custom camera 1 – Ctrl + Alt + 1
+ -     Save custom camera 2 – Ctrl + Alt + 2
+ -     Save custom camera 3 – Ctrl + Alt + 3
+ -     Save custom camera 4 – Ctrl + Alt + 4
+ -     Save custom camera 5 – Ctrl + Alt + 5
+ -     Save custom camera 6 – Ctrl + Alt + 6
+ -     Save custom camera 7 – Ctrl + Alt + 7
+ -     Save custom camera 8 – Ctrl + Alt + 8
+ -     Save custom camera 9 – Ctrl + Alt + 9
+ -     Decrease cockpit view height – Down
+ -     Increase cockpit view height – Up
+ -     Translate cockpit view backward – Right Alt + Down
+ -     Translate Cockpit view forward – Right Alt + Up
+ -     Translate Cockpit view left – Left
+ -     Translate Cockpit view right – Right
+ -     Cockpit look down – Shift + Down
+ -     Cockpit look left – Shift + Left
+ -     Cockpit look right – Shift + Right
+ -     Cockpit look up – Shift + up
+ -     Cockpit quickview up – Ctrl + Up
+ -     Cockpit quickview rear – Ctrl + Down
+ -     Cockpit quickview right – Ctrl + Right
+ -     Cockpit quickview left – Ctrl + Left
+ -     Cockpit quickview cycle – q
+ -     Reset cockpit view – Ctrl + Space
+ -     Cockpit view upper – Space
+ -     Unzoom Cockpit view – –
+ -     Toggle smart camera – s
+ -     Zoom cockpit view – =
+ - 
+ - Drone Camera
+ - 
+ -     Toggle drone depth of field – F1
+ -     Toggle foreground blur – F5
+ -     Drone top down view – Ctrl + Space
+ -     Attach drone to next target – Ctrl + Page Up
+ -     Attach drone to previous target – Ctrl + Page Down
+ -     Toggle drone auto exposure – Ctrl + F4
+ -     Toggle drone auto focus – F4
+ -     Decrease drone rotation speed – F3
+ -     Decrease drone translation speed – F1
+ -     Decrease drone depth of field – F2
+ -     Increase drone depth of field – F3
+ -     Decrease drone exposure – Ctrl + F2
+ -     Increase drone exposure – Ctrl + F3
+ -     Increase drone rotation speed – F4
+ -     Increase drone translation speed – F2
+ -     Lock drone to next target – t
+ -     Lock drone to previous target – Shift + t
+ -     Translate drone backward – s
+ -     Translate drone down – f
+ -     Translate drone forward – w
+ -     Translate drone left – a
+ -     Translate drone right – d
+ -     Translate drone up – r
+ -     Reset Drone roll – space
+ -     Reset drone target offset – Num 5
+ -     Pitch drone down – Num 2
+ -     Roll drone right – Num 9
+ -     Pitch drone up – Num 8
+ -     Yaw drone left – Num 4
+ -     Yaw drone right – Num 6
+ -     Roll drone left – Num 7
+ -     Toggle drone follow mode – Tab
+ -     Toggle drone lock mode – Ctrl + Tab
+ -     Increase drone zoom – Num Plus
+ -     Decrease drone zoom – Num Sub
+ -     Toggle Plane Controls – c
+ - 
+ - External Camera
+ - 
+ -     Reset External view – Ctrl + Space
+ -     External quickview left – Ctrl + Left
+ -     External quickview rear – Ctrl + Down
+ -     External quickview right – Ctrl + Right
+ -     External quickview top – Ctrl + Up
+ -     Unzoom External view – –
+ -     Zoom external view – =
+ - 
+ - Fixed Camera
+ - 
+ -     Toggle fixed camera 10 – Ctrl + Shift + 0
+ -     Toggle fixed camera 1 – Ctrl + Shift + 1
+ -     Toggle fixed camera 2 – Ctrl + Shift + 2
+ -     Toggle fixed camera 3 – Ctrl + Shift + 3
+ -     Toggle fixed camera 4 – Ctrl + Shift + 4
+ -     Toggle fixed camera 5 – Ctrl + Shift + 5
+ -     Toggle fixed camera 6 – Ctrl + Shift + 6
+ -     Toggle fixed camera 7 – Ctrl + Shift + 7
+ -     Toggle fixed camera 8 – Ctrl + Shift + 8
+ -     Toggle fixed camera 9 – Ctrl + Shift + 9
+ -     Reset fixed camera – f
+ -     Previous fixed camera – Shift + a
+ -     Next fixed camera – a
+ - 
+ - Instrument Views
+ - 
+ -     Previous instrument view – Shift + a
+ -     Next intrument view – a
+ -     Toggle instrument view 10 – Ctrl + 0
+ -     Toggle instrument view 1 – Ctrl + 1
+ -     Toggle instrument view 2 – Ctrl + 2
+ -     Toggle instrument view 3 – Ctrl + 3
+ -     Toggle instrument view 4 – Ctrl + 4
+ -     Toggle instrument view 5 – Ctrl + 5
+ -     Toggle instrument view 6 – Ctrl + 6
+ -     Toggle instrument view 7 – Ctrl + 7
+ -     Toggle instrument view 8 – Ctrl + 8
+ -     Toggle instrument view 9 – Ctrl + 9
+ -     Select next POI – Pgup
+ -     Reset Smartcam – Ctrl + f
+ -     Set custom smartcam target – t
+ -     Next smartcam target – Pgup + Ctrl
+ -     Camera AI Player – Home + Ctrl
+ -     Previous Smartcam target – Pgdown + Ctrl
+ -     Toggle follow smartcam target – Pgdown
+ -     Unset custom smartcam target – Shift + t
+ - 
+ - Autopilot
+ - 
+ -     Autopilot Airspeed Hold – Alt + r
+ -     Decrease autopilot reference altitude – Ctrl + Pgdown
+ -     Increase autopilot reference altitude – Ctrl + Pgup
+ -     Toggle autopilot approach hold – Ctrl + a
+ -     Toggle autopilot attitude hold – Ctrl + t
+ -     Toggle autopilot localizer hold – Ctrl + o
+ -     Toggle autopilot mach hold – Ctrl + m
+ -     Toggle autopilot master – z
+ -     Autopilot N1 hold – Ctrl + s
+ -     Decrease autopilot N1 reference – Ctrl + End
+ -     Increase autopilot N1 reference – Ctrl + Home
+ -     Autopilot Nav1 Hold – Ctrl + n
+ -     Decrease autopilot reference airspeed – Shift + Ctrl + Del
+ -     Increase autopilot reference airspeed – Shift + Ctrl + Insert
+ -     Decrease autopilot reference vs – Ctrl + End
+ -     Increase autopilot reference vs – Ctrl + Home
+ -     Toggle autopilot wing leveler – Ctrl + v
+ -     Autopilot Off – Shift + Alt + z
+ -     Autopilot On – Alt + z
+ -     Arm Auto Throttle – Shift + r
+ -     Auto Throttle to GA – Shift + Ctrl + g
+ -     Toggle avionics master – Pgup
+ -     Toggle flight director – Ctrl + f
+ -     Toggle Yaw Damper – Ctrl + d
+ - 
+ - Brakes
+ - 
+ -     Brakes – Num Decimal
+ -     Left Brake – Nummult
+ -     Right Brake – Num Sub
+ -     Toggle Parking Brakes – Ctrl + Num Decimal
+ - 
+ - Flight Control Sufaces
+ - 
+ -     Aileron left (roll left) – Num 4
+ -     Aileron right (roll right) – Num 6
+ -     Center ailer rudder – Num 5
+ -     Elevator down (pitch down) – Num 8
+ -     Elevator up (pitch up) – Num 2
+ -     Toggle water rudder – Ctrl + w
+ -     Rudder left (Yaw left) – Num 0
+ -     Rudder Right (yaw right) – Enter
+ - 
+ - Secondary Control Surfaces
+ - 
+ -     Decrease flaps – F6
+ -     Extends flaps – F8
+ -     Increase flaps – F7
+ -     Retract flaps – F5
+ -     Toggle spoilers – Num Divide
+ - 
+ - Control Trimming Surfaces
+ - 
+ -     Aileron Trim Left – Ctrl + Num 4
+ -     Aileron Trim Right – Ctrl + Num 6
+ -     Rudder Trim Left – Ctrl + Num 0
+ -     Rudder Trim Right – Ctrl + Enter
+ -     Elevator Trin Down (nose down) – Num 7
+ -     Elevator Trim up (Nose up) – Num 1
+ - 
+ - Landing Gear
+ - 
+ -     Toggle landing gear – g
+ -     Gear down – Ctrl – g
+ -     Toggle tail wheel lock – Shift + g
+ - 
+ - Exterior Lights
+ - 
+ -     Toggle landing lights – Ctrl – l
+ -     Landing lights down – Shift + Ctrl + Num 2
+ -     Landing light home – Shift + Ctrl + Num 5
+ -     Landing light left – Shift + Ctrl + Num 4
+ -     Landing light right – Shift + Ctrl + Num 6
+ -     Landing light up – Shift + Ctrl + Num 8
+ -     Toggle strobes – o
+ -     Toggle beacon light – Alt + h
+ -     Toggle Nav light – Alt + n
+ -     Toggle taxi lights – Alt + j
+ - 
+ - Interior Lights
+ - 
+ -     Toggle flashlight – Alt + l
+ -     Toggle lights – l
+ - 
+ - Menu
+ - 
+ -     Toggle active pause – Pause
+ -     Toggle basic control panel – Ctrl + c
+ -     Clear search – Del
+ -     Toggle Pause – Esc
+ -     Select 1 – Alt + F1
+ -     Select 2 – Alt + F2
+ -     Select 3 – Alt + F3
+ -     Select 4 – Alt + F4
+ -     Display checklist – Shift + c
+ -     Next toolbar panel – .
+ -     Previous toolbar panel – /
+ -     Back to main menu – End
+ -     Close menu – Backspace
+ -     Fly – Enter
+ -     Change aircraft – F11
+ -     Liveries – F12
+ -     See specifications – F10
+ -     Help menu – Tab
+ -     Restart free flight – Home
+ -     Restart activity – Home
+ - 
+ - Power Management Mixture
+ - 
+ -     Decrease mixture – Shift + Ctrl + F2
+ -     Increase mixture – Shift + Ctrl + F3
+ -     set mixture lean – Shift + Ctrl + F1
+ -     set mixture rich – Shift + Ctrl + F4
+ - 
+ - Power Management Propeller
+ - 
+ -     Decrease propeller pitch – Ctrl + F2
+ -     Propeller pitch Hi – Ctrl + F4
+ -     Increase propeller pitch – Ctrl + F3
+ -     Propeller pitch lo – Ctrl + F1
+ - 
+ - Throttle
+ - 
+ -     Throttle cut – F1
+ -     Decrease Throttle – F2
+ -     Increase Throttle – F3
+ - 
+ - Radio
+ - 
+ -     ADF – Shift + Ctrl + a
+ -     Com Radio – c
+ -     Set Com1 Standby – Shift + Alt + x
+ -     Com1 switch to standby – Alt + u
+ -     DME – f
+ -     Decrease Nav1 Frequency – Shift + Ctrl + Pgdown
+ -     Increase Nav1 Frequency – Shift + Ctrl + Pgup
+ -     Nav1 Swap – Shift + Ctrl + n
+ -     Nav Radio – n
+ -     Decrease Vor1 OBS – Shift + Ctrl + End
+ -     Increase VOR1 OBS – Chift + Ctrl + Home
+ -     VOR OBS – Shift + v
+ -     Transponder – t
+ -     Set transponder – Shift + Alt + w
+ -     Display ATC – Scroll Lock
+ -     ATC Panel Choice 0 – 0
+ -     ATC Panel Choice 1 – 1
+ -     ATC Panel Choice 2 – 2
+ -     ATC Panel Choice 3 – 3
+ -     ATC Panel Choice 4 – 4
+ -     ATC Panel Choice 5 – 5
+ -     ATC Panel Choice 6 – 6
+ -     ATC Panel Choice 7 – 7
+ -     ATC Panel Choice 8 – 8
+ -     ATC Panel Choice 9 – 9
+ -     Frequency Swap – x
+ -     Increase wheel speed – Shift
+
